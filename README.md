@@ -1,9 +1,11 @@
-# Student Enrollment System
+# Database Web App
 
-A web-based user management and student enrollment system, built for **CMSC 4003: Database and Applications** at the University of Central Oklahoma (Fall 2019).
+A web-based user management system on an Oracle database, built for **CMSC 4003: Database and Applications** at the University of Central Oklahoma (Fall 2019).
 
 Students log in to view and update their own information. Administrators log in to create, update, and delete users. Users with both roles get a combined view. Sessions are tracked in the database.
 
+> **Status: unfinished.** The course project had two parts. This repo covers part one (login, sessions, and user management). Part two was a student enrollment system, but two of our four teammates dropped the class, which left too much work for two people, and it was never completed.
+>
 > Built by hand in 2019, before AI coding tools. Left as originally written, apart from removing the school database credentials.
 
 ## Team
